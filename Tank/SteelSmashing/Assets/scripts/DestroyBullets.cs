@@ -12,7 +12,7 @@ public class DestroyBullets : MonoBehaviour {
 		Destroy (this.gameObject);
 
 		if (col.gameObject.layer == 8) {
-			Destroy(col.gameObject);
+			// Destroy(col.gameObject);
 		}
 	}
 	// Update is called once per frame
