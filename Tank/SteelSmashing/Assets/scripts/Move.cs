@@ -74,7 +74,7 @@ public class Move : MonoBehaviour {
 			TurnLeft();
 		}
 
-		transform.Rotate(0, Input.acceleration.y * rotateSpeed * Time.deltaTime, 0);
+		transform.Rotate(0, Input.acceleration.x * rotateSpeed * Time.deltaTime, 0);
 	
 
 //		// car backing up turn
