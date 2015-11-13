@@ -1,11 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\Emeny_AI.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/Tank_Body.cs">
     <Files>
-      <File FileName="Assets\scripts\Radar.cs" Line="29" Column="37" />
-      <File FileName="Assets\scripts\Move.cs" Line="1" Column="1" />
-      <File FileName="Assets\scripts\Move2.cs" Line="1" Column="1" />
-      <File FileName="Assets\scripts\Emeny_AI.cs" Line="7" Column="30" />
+      <File FileName="Assets/scripts/Barrel.cs" Line="16" Column="3" />
+      <File FileName="Assets/scripts/Tank_Body.cs" Line="18" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
